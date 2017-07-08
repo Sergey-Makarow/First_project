@@ -1,8 +1,3 @@
-#include "SubstitutionException.h"
-#include "Substitution.h"
-#include <iostream>
-#include <string>
-#include <cstdlib>
 using namespace std;
 int main()
 {
